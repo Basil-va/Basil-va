@@ -4,7 +4,7 @@
 
 ### *Vibe Coder · Builder of Ideas · Prompt-Driven Developer*
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Пишу+коду+на+языке+промптов+%F0%9F%92%AC;Превращаю+идеи+в+работающие+продукты+%F0%9F%9A%80;Вайбкодинг+—+это+не+хайп%2C+это+мой+Workflow+%F0%9F%8E%B5" alt="Typing SVG" />
+
 
 </div>
 
@@ -80,18 +80,7 @@ mindmap
 - 🧠 **Понимаю, что строю.** AI пишет — я отвечаю за архитектуру и решения.
 - 🚀 **Done > Perfect, но Perfect достижим за 3 итерации.** 😎
 
----
 
-## 📊 Статистика
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Basil-va&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basil-va&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Basil-va&theme=react-dark&hide_border=true&bg_color=0D1117" />
-
-</div>
 ---
 
 ## 🤝 Связаться со мной
